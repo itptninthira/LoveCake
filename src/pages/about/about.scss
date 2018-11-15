@@ -1,0 +1,15 @@
+page-about {
+    h2 {
+        color: black;
+        text-align: center;
+    }
+    .bg {
+        background-image: url(../../assets/imgs/br.jpg);
+    }
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+}
